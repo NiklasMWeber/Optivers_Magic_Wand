@@ -1,4 +1,4 @@
-# Optivers Magic Wand
+# Optiver's Magic Wand
 
 This is a brainteaser that was part of Optiver's recruiting process some time ago. The problem was the following:
 
